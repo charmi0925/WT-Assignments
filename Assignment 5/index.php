@@ -15,7 +15,7 @@
     $host       = "localhost";
     $dbusername = "root";
     $dbpassword = "";
-    $dbname     = "pruthil";
+    $dbname     = "charmi";
     
     // Create connection
     $conn = new mysqli($host, $dbusername, $dbpassword, $dbname);
